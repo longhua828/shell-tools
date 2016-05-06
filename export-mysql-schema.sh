@@ -1,5 +1,5 @@
 #!/bin/bash
-# 输出mysql数据库表结构
+# 导出mysql数据库表结构到html
 # author: Z.kc
 # example:
 # ./export-mysql-schema.sh localhost 3306 root root test > test.html
